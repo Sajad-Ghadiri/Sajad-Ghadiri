@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sajjad-ghadiri-222797189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajjad-ghadiri-222797189/" height="30" width="40" /></a>
+<a href="https://sites.google.com/view/ighadiri/" target="blank"><img align="center" src="https://drive.google.com/file/d/1PEPwXIxRiZoIy8geX6DQe6PPjrD-HvGm/view?usp=sharing" alt="s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
