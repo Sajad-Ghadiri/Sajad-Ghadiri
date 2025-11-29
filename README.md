@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajad-ghadiri&label=Profile%20views&color=0e75b6&style=flat" alt="sajad-ghadiri" /> </p>
 
-- 🔭 I’m currently working on [AI Agents & Golang Projects](https://github.com/Sajad-Ghadiri/)
+- 🔭 I’ve currently started my MS.c. at Polimi
+<!-- - 🔭 I’m currently working on [AI Agents & Golang Projects](https://github.com/Sajad-Ghadiri/) -->
 
 - 📫 How to reach me **ghadiriisajad@gmail.com**
 
