@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajad Ghadiri</h1>
-<h3 align="center">A passionate Electrical Engineer from Iran</h3>
+<h3 align="center">A passionate Engineer and Always a learner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajad-ghadiri&label=Profile%20views&color=0e75b6&style=flat" alt="sajad-ghadiri" /> </p>
 
